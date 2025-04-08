@@ -2,7 +2,7 @@
 This repository contains practical implementations of key machine learning models and techniques that are fundamental to pattern recognition. The lab focuses on supervised learning algorithms applied to real-world datasets. Topics covered include:
 
 📌 Topics & Techniques Learned
-Image Classification using MLP (Multi-Layer Perceptron)
+#Image Classification using MLP (Multi-Layer Perceptron)
 
 Dataset: MNIST and CIFAR-10
 
@@ -20,7 +20,7 @@ Visualization of image samples
 
 Evaluation of classification accuracy
 
-MLP for Regression Tasks
+#MLP for Regression Tasks
 
 Dataset: Song popularity dataset
 
@@ -34,7 +34,7 @@ Model building with sklearn.neural_network.MLPRegressor
 
 Evaluation using Mean Squared Error (MSE)
 
-Naïve Bayes Classification
+#Naïve Bayes Classification
 
 Dataset: Social Network Ads
 
